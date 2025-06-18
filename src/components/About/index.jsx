@@ -16,8 +16,12 @@ const About = () => {
                     I’m a creative data enthusiast who loves tackling real-world challenges with analytical thinking and innovative solutions. I enjoy uncovering patterns, building predictive models, and turning complex data into impactful insights using Python, SQL, and R. Passionate about solving problems through code, storytelling with data, and designing intelligent solutions that drive decisions.
                     </p>
                     <a download href="/assets/Niranjan  CV Resume.pdf" className="button1">
-                        Download CV <i class='bx bxs-report bx-flashing' ></i>
+                        Download CV<i class='bx bxs-report bx-flashing' ></i>
                     </a>
+                    <a download href="/assets/Niranjan(ASAC) Ressume.pdf" className="button1 btn2">
+                      Resume<i class='bx bxs-report bx-flashing' ></i>
+                    </a>
+                    
                 </div>
 
             </div>

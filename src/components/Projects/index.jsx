@@ -14,8 +14,8 @@ const Projects = () => {
             link: ""
         },
         {
-            name: " analyze and visualize of data ",
-            image: "/assets/fullstack/dataanalysis.jpg",
+            name: "Gamification of Driving Experience using ML",
+            image: "/assets/fullstack/gamification.jpg",
             link: ""
         },
         {

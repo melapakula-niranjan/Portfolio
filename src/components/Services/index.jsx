@@ -16,7 +16,7 @@ const Services = () => {
                 <div className="services_content">
                     <div className="">
                         <i className="uil uil-web-grid services_icon"></i>
-                        <h3 className="services_title">Web Developer</h3>
+                        <h3 className="services_title">Frontend Developer</h3>
                     </div>
                     <span className="services_button" onClick={() => toggleTab(1)}>
                         View More
@@ -29,10 +29,11 @@ const Services = () => {
 
                             </i>
                             <h3 className="services_modal_title">
-                              Web Designer
+                        Frontend Developer
+
                             </h3>
                             <p className="services_modal_description">
-                            I have more than 2 years of experience and can deliver high-quality of work.
+                           I’m a final-year Computer Science student skilled in creating responsive and user-friendly web interfaces.
                             </p>
                             <ul className="services_modal_services grid">
                                 <li className="services_modal_service">
@@ -40,7 +41,8 @@ const Services = () => {
 
                                     </i>
                                     <p className="services_modal_info">
-                                        I develop the user interface.
+                                       Develop interactive and modern UI components.
+
                                     </p>
                                 </li>
 
@@ -49,7 +51,9 @@ const Services = () => {
 
                                     </i>
                                     <p className="services_modal_info">
-                                    Web page development.
+                                   Build and style web pages using HTML, CSS, JavaScript, and React.
+
+
                                     </p>
                                 </li>
 
@@ -58,7 +62,8 @@ const Services = () => {
 
                                     </i>
                                     <p className="services_modal_info">
-                                    I create UX element interactions
+                                   Collaborate on UX design to enhance user experience.
+
                                     </p>
                                 </li>
 
@@ -67,7 +72,7 @@ const Services = () => {
 
                                     </i>
                                     <p className="services_modal_info">
-                                    Design and mockups of products for companies
+                                  Focus on performance, accessibility, and cross-browser compatibility.
                                     </p>
                                 </li>
 
@@ -87,7 +92,7 @@ const Services = () => {
                 <div className="services_content">
                     <div className="">
                         <i className="bx bx-terminal services_icon"></i>
-                        <h3 className="services_title">Backend Developer</h3>
+                        <h3 className="services_title">Data Analyst</h3>
                     </div>
                     <span className="services_button" onClick={() => toggleTab(3)}>
                         View More
@@ -100,10 +105,11 @@ const Services = () => {
 
                             </i>
                             <h3 className="services_modal_title">
-                            Backend Developer
+                            Data Analyst
                             </h3>
                             <p className="services_modal_description">
-                            I have more than 2 years of experience and can deliver high-quality work 
+                            I’m a final-year Computer Science student passionate about turning data into actionable insights.
+
                             </p>
                             <ul className="services_modal_services grid">
                                 <li className="services_modal_service">
@@ -111,7 +117,8 @@ const Services = () => {
 
                                     </i>
                                     <p className="services_modal_info">
-                                    I develop and maintain server-side applications.
+                                    Analyze datasets to uncover patterns and trends.
+
                                     </p>
                                 </li>
 
@@ -120,7 +127,8 @@ const Services = () => {
 
                                     </i>
                                     <p className="services_modal_info">
-                                   Create and manage APIs for seamless data communication.
+                                  Build dashboards and reports using tools like Power BI and Tableau.
+
                                     </p>
                                 </li>
 
@@ -129,7 +137,8 @@ const Services = () => {
 
                                     </i>
                                     <p className="services_modal_info">
-                                    Optimize database interactions and queries.
+                                    Write SQL queries to extract, clean, and transform data.
+
                                     </p>
                                 </li>
 
@@ -138,7 +147,8 @@ const Services = () => {
 
                                     </i>
                                     <p className="services_modal_info">
-                                 Implement authentication and authorization protocols.
+                                 Use Python and R for statistical analysis and predictive modeling.
+
                                     </p>
                                 </li>
 
@@ -147,7 +157,7 @@ const Services = () => {
 
                                     </i>
                                     <p className="services_modal_info">
-                                    Ensure the performance, security, and reliability of applications.
+                                   Communicate findings clearly to support data-driven decisions.
                                     </p>
                                 </li>
 
@@ -180,7 +190,8 @@ const Services = () => {
                             Database Designer
                             </h3>
                             <p className="services_modal_description">
-                            I have more than 2 years of experience and can deliver high-quality work 
+                           Final-year Computer Science student with strong database skills and hands-on project experience.
+
                             </p>
                             <ul className="services_modal_services grid">
                                 <li className="services_modal_service">
